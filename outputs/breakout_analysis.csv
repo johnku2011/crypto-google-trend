@@ -1,0 +1,7 @@
+Coin,Window (months),Positive Breakouts,Negative Breakouts,Positive Success Rate (%),Negative Success Rate (%)
+bitcoin,1m,0,0,0.0,0.0
+bitcoin,3m,0,0,0.0,0.0
+bitcoin,6m,1,1,100.0,0.0
+ethereum,1m,0,0,0.0,0.0
+ethereum,3m,0,0,0.0,0.0
+ethereum,6m,0,0,0.0,0.0

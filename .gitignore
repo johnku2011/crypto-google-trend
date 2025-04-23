@@ -45,5 +45,4 @@ Icon
 *.swo
 
 # Project specific
-outputs/
 *.log 
